@@ -1,0 +1,10 @@
+[requires]
+boost/1.79.0
+Poco/1.12.2
+
+[generators]
+cmake
+
+[options]
+Boost:shared=False
+Poco:shared=False
