@@ -1,6 +1,6 @@
 [requires]
 boost/1.79.0
-Poco/1.12.2
+poco/1.12.2
 
 [generators]
 cmake
